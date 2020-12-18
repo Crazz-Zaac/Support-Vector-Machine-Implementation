@@ -1,6 +1,6 @@
 # Support Vector Implementation
 
-![alt text](https://github.com/Crazz-Zaac/Decision-Tree-Algo/blob/master/drugtree.png)
+![alt text](https://github.com/Crazz-Zaac/Support-Vector-Machine-Implementation/blob/master/img/svm1.jpg)
 
 ## Getting ready
 First setup virtual environment, activate it install the essentials.
